@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            
+* {
+  box-sizing: border-box;
+}
+
+.box {
+  float: left;
+  width: 50%;
+  padding: 40px;
+   border: 12px solid rebeccapurple;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.h1{
+  forced-color-adjust:brown;
+}
+            </style>
+    </head>
+   
+    <body>
+        <div>
+            <button type="home" class="home">HOME</button>
+            <button type="contact" class="contact">CONTACT MATT</button>
+            <button type="about" class="about">ABOUT MATT</button>
+            <button type="media" class="media">MEDIA</button>
+            <button type="plantit" class="plantit">PLANTIT NIZ</button>
+        </div>
+     <br>
+     <img src="http://www.pixelstalk.net/wp-content/uploads/2016/08/Travel-Download-Free-Images-HD.jpg" height="500px" width="100%">
+     <div class="clearfix">
+     <div class="box"><u><b><h1>5 GREAT ADVENTURE DESTINATIONS<br>FOR YOUR POST-LOCKDOWN TRAVEL<br> BUCKET LIST</h1></b></u> 
+    
+    
+        <img src="https://tse2.mm.bing.net/th?id=OIP.FJKBrF8iH6hqA32IuavJJwHaDm&pid=Api&P=0" width="100%" height="40%"><br>
+        <p style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;">
+        With international travel on pause for the moment, our travel bucket lists aren’t getting any shorter.
+        In fact, quite the opposite! As the focus remains on staying home, staying local, and waiting for the world 
+        to heal, it’s easy to get caught up staring out your window dreaming of your next destination. 
+
+        So, when it’s safe to travel again, where will you go? 
+            
+        These adventure destinations are sure to inspire your next lockdown daydream session.
+<br>
+      <a href="https://www.backpackingmatt.com/about/"><h2>1. Hike Acatenango Volcano, Guatemala </h2></a>
+        
+        <img src="https://tse4.mm.bing.net/th?id=OIP.cD38FTkgUqib4mfJ5DH74gHaE8&pid=Api&P=0"width="100%" height="40%"><br><br>
+        If you’ve ever wanted to get up close and personal with a live volcano, Guatemala is the place to do it. 
+        Guatemala is home to 37 volcanoes, three of which are active and the rest dormant. Acatenango is the third-
+        highest volcano in Guatemala, offering a challenging but achievable hike. 
+
+        Reaching the summit takes around five hours, but it can also be done as an overnight hike with options to camp 
+        out under the stars. From here you’ll see Acatenango’s crater and reach the best lookout point for viewing the 
+        active Fuego Volcano, which is always putting on a show.
+        <br>
+       <h2>2. Try Dog Sledding in Alaska</h2>
+       <img src="https://www.dogster.com/wp-content/uploads/2015/05/malamutes-pull-sled.jpg"width="100%" height="40%"><br><br>
+        Imagine speeding through snow-covered Alaskan Forest on a sled pulled by dogs. This Alaskan obsession can be 
+        enjoyed as a one-day trip or multi-day adventure, with opportunities to see the vast Alaskan countryside, pet 
+        the beloved sled dogs, and learn about the rich cultural heritage behind the sport.
+       <br>
+
+        <h2>3. Snorkel with gentle giants at Ningaloo Reef, Australia</h2>
+        <img src="https://i.pinimg.com/originals/76/b8/ff/76b8ff88d0427ca9c1bfd21758479d36.jpg"width="100%" height="40%"><br><br>
+        The whale sharks of Ningaloo Reef are the biggest fish in the ocean. Living on a diet entirely of plankton, 
+        there’s no need to fear these gentle giants. Between March and August, these amazing creatures migrate along 
+        the coast, putting on a spectacular show for snorkelers.
+
+        If you’re curious about sharks, but you’re not quite into cage diving with Great Whites, this adventure might 
+        be right up your alley.
+      <br>
+        <h2>4. Visit the cutest little capital in the world – Wellington, New Zealand</h2>
+        <img src="https://tse3.mm.bing.net/th?id=OIP.qbt49mMYYTs_PTYr2J5_nwHaE8&pid=Api&P=0"width="100%" height="40%"><br><br>
+         Fly to the corner of the world and visit the cutest little capital, Wellington City. Here you can get the full 
+         mix of New Zealand’s natural, cultural, political and historical scene while trying some of the country’s best cuisine 
+         and coffee. 
+
+         Wander along the waterfront, visit parliament’s Beehive building, or discover New Zealand’s vibrant history at Te Papa 
+        Museum. If you stay nearby you’ll also be able to visit the native wildlife at Zealandia Ecosanctuary, or see many of the 
+        famous movie artefacts at Weta Workshop. With the smell of coffee filling the air and music bustling out from every shop, 
+        the vibe is always good in Wellington.
+        <br>
+        <h2>5. Go Ziplining in Chiang Mai, Thailand</h2>
+        <img src="https://bikudotravel.com/media/x35irmuz/adobestock_245373533-1.jpeg"width="100%" height="40%"><br><br>
+         Head to Northern Thailand to scale the canopies of the 1500-year old Chiang Mai Rainforest. Ziplining on a single-person 
+        swing lets you glide along the Yang treetops, giving a bird’s eye view of the jungle below and making this a bucket list 
+        activity for GoPro fanatics and rush-seekers. This activity offers the perfect adrenaline rush for solo travellers, groups 
+        or families. See the wonders of the jungle including cliffs, rivers and the wonderful Chiang Mai wildlife.  
+    </p>
+   </div>
+   <div class="box">
+    <p>
+      <h4 style="font-family:Arial, Helvetica, sans-serif">all post by :</h4>
+      <h1><u>BACKPACKINGMATT</u></h1>
+      <img src="https://tse4.mm.bing.net/th?id=OIP.obeGo3alUbAUK4g3EfGJiQHaFj&pid=Api&P=0" width="100%" height="40%">
+    </p>
+    
+   </div>
+   <div class="box">
+    <p>
+      <h2>ABOUT ME:</h2><br>
+    </p>
+   </div>
+</div>
+    </body>
+</html>
