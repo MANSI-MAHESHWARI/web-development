@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="mystyle.css">
+    <style>
+        ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background-color:black;
+    overflow: hidden;
+  }
+  li{
+    float: left;
+  }
+  li a{
+    display: block;
+
+    color: white;
+    padding: 14px 16px;
+  }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="con">
+                <div class="navbar">
+                    <div class="logo">
+                        <img src="C:\Users\mmhpu\OneDrive\Desktop\class\html\Need to use only these images in your code\abeslogo.png">
+
+                    </div>
+
+                    <div class="title">
+                        <h1>
+                            ABES Infra Tech Pvt Limited
+                        </h1>
+                    </div>
+                    <nav>
+                        <ul id="menu">
+                            <li><a href="#">Logo1</a></li>
+                            <li><a href="#">Logo2</a></li>
+                            <li><a href="#">Logo3</a></li>
+                            <li><a href="#">Link1</a></li>
+                            <li><a href="#">Link2</a></li>
+                            <li><a href="#">Link3</a></li>
+                        </ul>
+                    </nav>
+
+                </div>
+            </div>
+            <div class="n">
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Products</a></li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Contact</a></li>
+                    <li style="float:right"><a class="active" href="#about">Registration</a></li>
+                    <li style="float:right"><a class="active" href="#about">Login</a></li>
+                    
+                </ul>
+            </div>
+        </header>
+        <div class="hello">
+            <img src="C:\Users\mmhpu\OneDrive\Desktop\class\html\Need to use only these images in your code\house2.jpg" alt="" width="100% " height="auto-fit">
+        </div>
+        <div clas="bottom">
+           
+    <div class="card " >
+       <img src="C:\Users\mmhpu\AppData\Local\Temp\Rar$DIa4868.23316\flat2.jpeg" class="card-img-top rounded-circle" alt="...">
+       
+      </div>
+
+      <div class="card ">
+        <img src="C:\Users\mmhpu\AppData\Local\Temp\Rar$DIa4868.28493\flat1.jpeg" class="card-img-top rounded-circle" alt="...">
+        
+      </div>
+
+      <div class="card" >
+        <img src="C:\Users\mmhpu\AppData\Local\Temp\Rar$DIa4868.30518\flat3.jpeg" class="card-img-top rounded-circle" alt="...">
+        
+      </div>
+        </div>
+    </div>
+</body>
+</html>
